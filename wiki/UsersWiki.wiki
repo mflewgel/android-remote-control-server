@@ -1,4 +1,5 @@
 #summary Android RC Server app wiki.
+#labels Featured,Phase-Support
 
 = Introduction =
 
