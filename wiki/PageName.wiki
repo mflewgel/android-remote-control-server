@@ -1,0 +1,12 @@
+#summary Android RC Server app wiki.
+#labels Featured,Phase-Support
+
+= Introduction =
+
+Here is where you will find help about the server app.
+
+
+= Details =
+
+Running on Windows 7 or above:
+Unzip the archive, the rightclick pptmaingui.exe and _Run as administrator_
