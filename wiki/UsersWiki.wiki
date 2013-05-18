@@ -13,3 +13,6 @@ Unzip the archive.
 Then rightclick PPTMainGui.exe and _Run as administrator_.
 
 Don't forget to allow it to bypass Windows Firewall!
+
+= Download =
+Go to the Downloads section to download the server app!
